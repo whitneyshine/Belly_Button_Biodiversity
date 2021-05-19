@@ -1,19 +1,10 @@
-body {
+ body{
 
-	color:  black;
-	padding-bottom: 50px;
-	background-color: yellow;
-  }
 
-  .jumbotron {
-	background-image: url("../images/bacteria.jpg");
+    jumbotron {
+	background-image: url("../images/bacteria.png");
 	background-size: 100% 100%;
 	text-align: center;
-  }
-
-h1 {
-	
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	font-weight: bold;
+  
 	
 }  
