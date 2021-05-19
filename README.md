@@ -10,6 +10,6 @@ This new assignment consists of four technical analysis deliverables. You will s
 •	Deliverable 3: Create a Gauge Chart<br>
 •	Deliverable 4: Customize the Dashboard<br><br>
 
-**Deliverable 1 Instructions**
+**Deliverable 1 Instructions**<br><br>
 Using your knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.<br><br>
 
