@@ -21,4 +21,8 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart tha
 •	The otu_ids as the marker colors.<br>
 •	The otu_labels as the hover-text values.<br><br>
 
+**Deliverable 3 Instructions**<br><br>
+Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.<br><br>
+
+
 
