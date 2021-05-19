@@ -13,3 +13,12 @@ This new assignment consists of four technical analysis deliverables. You will s
 **Deliverable 1 Instructions**<br><br>
 Using your knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.<br><br>
 
+**Deliverable 2 Instructions**<br><br>
+Using your knowledge of JavaScript, Plotly, and D3.js, create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:<br>
+•	The otu_ids as the x-axis values.<br>
+•	The sample_values as the y-axis values.<br>
+•	The sample_values as the marker size.<br>
+•	The otu_ids as the marker colors.<br>
+•	The otu_labels as the hover-text values.<br><br>
+
+
