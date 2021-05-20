@@ -33,7 +33,6 @@ Use your knowledge of HTML and Bootstrap to customize the webpage for your dashb
             •	Add more information about the project as a paragraph on the page.<br>
             •	Add information about what each graph visualizes, either under or next to each graph.<br>
             •	Make the webpage mobile-responsive.<br>
-            •	Change the layout of the page.<br>
             •	Add a navigation bar that allows you to select the bar or bubble chart on the page.<br><br>
 2.	When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.<br><br>
 3.	When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements.
