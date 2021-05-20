@@ -33,5 +33,5 @@ Use your knowledge of HTML and Bootstrap to customize the webpage for your dashb
 2.	When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.<br><br>
 3.	When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements.
 
-Also, from the module work for the first github pages that was created during module.  [Plotly_Deployment](https://whitneyshine.github.io/plotly_deployment/)
+From the module work for the first github pages that was created during module.  [Plotly_Deployment](https://whitneyshine.github.io/plotly_deployment/)
 
